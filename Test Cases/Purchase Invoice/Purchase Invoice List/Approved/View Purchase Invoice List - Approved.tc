@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Purchase Invoice List - Approved</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f11d840a-568e-4262-9b13-6063f1c59890</testCaseGuid>
+</TestCaseEntity>

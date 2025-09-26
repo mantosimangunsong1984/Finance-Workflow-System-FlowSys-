@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Action-Approved</name>
+   <tag></tag>
+   <elementGuidId>7f874258-8fd3-4bc4-ac08-690ff886adb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_approved_invoices']/tbody/tr/td[10]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#table_approved_invoices > tbody > tr.odd > td:nth-of-type(10) > a.btn.btn-xs.btn-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>52d13cb9-9a0e-4e5c-a375-20f8743ee566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchase_invoices/detail/33</value>
+      <webElementGuid>233f2b01-4258-415a-b050-610ece0f163a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs btn-info</value>
+      <webElementGuid>31b69264-13d4-4941-8851-563f29e77142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_approved_invoices&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[10]/a[@class=&quot;btn btn-xs btn-info&quot;]</value>
+      <webElementGuid>212afed4-a3d1-494f-9770-55775e93f5b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_approved_invoices']/tbody/tr/td[10]/a</value>
+      <webElementGuid>79ec0bee-7b80-4911-80f0-7980de2a2285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[2]/following::a[1]</value>
+      <webElementGuid>69d43d63-ec2d-4585-bc4c-d425efe6bdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='David Leonardo'])[1]/following::a[1]</value>
+      <webElementGuid>af06df3f-cb37-4f4f-9002-e0c32d754f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[2]/preceding::a[1]</value>
+      <webElementGuid>790a5c12-df59-4e85-92d1-aa481de56063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Purchase Invoices'])[1]/preceding::a[4]</value>
+      <webElementGuid>f2e7b601-18a0-4c57-8bb1-84e924cf5857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/purchase_invoices/detail/33')]</value>
+      <webElementGuid>e0972dd2-3013-4c22-9a8d-2f555c4f5c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/table/tbody/tr/td[10]/a</value>
+      <webElementGuid>0618b88c-ef74-47bc-aafa-d4b6ac222842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchase_invoices/detail/33']</value>
+      <webElementGuid>457b9aa1-94e6-4967-a38d-62e2aa92f3eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

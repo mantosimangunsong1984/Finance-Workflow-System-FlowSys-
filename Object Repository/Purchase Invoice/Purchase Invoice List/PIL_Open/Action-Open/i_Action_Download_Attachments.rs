@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_Download_Attachments</name>
+   <tag></tag>
+   <elementGuidId>41df7f29-9277-4d01-834c-8fe12905ad79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='attachment-table']/tbody/tr/td[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td:nth-child(7) > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60025bf7-6ebc-4079-9306-412438abe30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-download</value>
+      <webElementGuid>98d88a82-dd5b-44fb-9682-9bd12a57ca62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attachment-table&quot;)/tbody[1]/tr[1]/td[5]/a[1]/i[@class=&quot;fas fa-download&quot;]</value>
+      <webElementGuid>00410e4c-837a-4d4c-a400-4445b6c167c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='attachment-table']/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>3e29f675-7352-4f1d-91e4-2af81ca81bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/i</value>
+      <webElementGuid>88ca475d-39bd-49e9-b322-5fe79f848e74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_UAT User_Mapping_Detail</name>
+   <tag></tag>
+   <elementGuidId>300fbfc0-04c3-43ce-8fa6-4a67ab2b1503</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_data_role']/tbody/tr[7]/td[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;9 UAT User  Detail  Detail  &quot;i] >> internal:attr=[title=&quot;Role User&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d103be8e-d10c-4de5-843a-6c89039ece1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/settings/role-user/9</value>
+      <webElementGuid>17fdd86e-4764-49b9-a654-ee35e9db7823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Role User</value>
+      <webElementGuid>8c5b6817-f205-4e51-90e3-87fb07fbe43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info btn-xs</value>
+      <webElementGuid>5bc248b4-b20d-42a0-a7f9-2fc246afe738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         Detail
+                    </value>
+      <webElementGuid>2aa818ce-abe0-43b2-b6ae-b1682b66d6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_data_role&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]/a[@class=&quot;btn btn-info btn-xs&quot;]</value>
+      <webElementGuid>98a216fd-19a4-48f2-bc62-ba86596347c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_data_role']/tbody/tr[7]/td[3]/a</value>
+      <webElementGuid>09aae3d4-0a85-4e00-b0c8-b3d05347975d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UAT User'])[1]/following::a[1]</value>
+      <webElementGuid>c528cb42-0a87-4f5e-9a94-22554f8c4590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[12]/following::a[3]</value>
+      <webElementGuid>c9b8ec6a-ac17-4f74-8bff-bded2ec2254d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[14]/preceding::a[1]</value>
+      <webElementGuid>58d7dad3-6ab0-4f27-a112-ee4f7d575bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/settings/role-user/9')]</value>
+      <webElementGuid>01749553-12c8-4f5a-9767-a6b7cf01daba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[3]/a</value>
+      <webElementGuid>f1a634e9-c1b1-4051-8231-bdb98f3982f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/settings/role-user/9' and @title = 'Role User' and (text() = '
+                         Detail
+                    ' or . = '
+                         Detail
+                    ')]</value>
+      <webElementGuid>0e9cab24-77a9-44c4-bbba-6f131b0dbbaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

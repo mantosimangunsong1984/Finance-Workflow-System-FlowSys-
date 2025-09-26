@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Print Purchase Invoice List Approved - ALL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0749d2fd-f269-4fb1-8891-3b9f1c0a27d1</testCaseGuid>
+</TestCaseEntity>

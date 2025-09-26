@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Download_Attachment_Action-Approved</name>
+   <tag></tag>
+   <elementGuidId>15332b0e-0e45-4ccb-b473-104a6929c6a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='attachment-table']/tbody/tr/td[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td:nth-child(7) > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4a0b34c4-a3fb-430a-be02-9b995fedc998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-download</value>
+      <webElementGuid>95634325-f937-47e6-9c99-b2822dcfb189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attachment-table&quot;)/tbody[1]/tr[1]/td[5]/a[1]/i[@class=&quot;fas fa-download&quot;]</value>
+      <webElementGuid>9c7557ad-4dfe-40fe-8cc8-db1d52647bba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='attachment-table']/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>73a1617e-4662-4f43-acf6-32a6efd3f03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/i</value>
+      <webElementGuid>abed7e1a-5f18-4235-a422-05d0ce011ddd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

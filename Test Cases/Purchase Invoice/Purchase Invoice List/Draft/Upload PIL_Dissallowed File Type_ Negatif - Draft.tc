@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload PIL_Dissallowed File Type_ Negatif - Draft</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d01d00f5-fb26-4265-8a07-392b9cf5d4b8</testCaseGuid>
+</TestCaseEntity>

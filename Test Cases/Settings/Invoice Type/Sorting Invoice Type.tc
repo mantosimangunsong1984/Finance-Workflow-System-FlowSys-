@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sorting Invoice Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a90f3ee1-8835-4ab9-88d9-d9f4c79888b1</testCaseGuid>
+</TestCaseEntity>

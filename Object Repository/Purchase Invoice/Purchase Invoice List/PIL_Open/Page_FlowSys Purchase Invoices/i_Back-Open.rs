@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Back-Open</name>
+   <tag></tag>
+   <elementGuidId>ac3fff08-240b-4ba1-8890-4736fb233dbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='table_open_invoices_previous']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#table_open_invoices_previous > i.fa.fa-angle-double-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#table_open_invoices_previous</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>deaa8031-9181-40ac-8121-9808ddfb13fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-double-left</value>
+      <webElementGuid>1a0e3190-58a5-410c-a0e4-d70c6cafb40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>527c3aa2-050f-43b3-9d37-6160ba2d8ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_open_invoices_previous&quot;)/i[@class=&quot;fa fa-angle-double-left&quot;]</value>
+      <webElementGuid>83102001-a8b0-43e7-8b93-2a815301c804</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='table_open_invoices_previous']/i</value>
+      <webElementGuid>8506505a-4d80-4fce-aa01-24f06e077e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[5]/a/i</value>
+      <webElementGuid>c9b57a72-f94d-4638-a45d-1b5012e9f4ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

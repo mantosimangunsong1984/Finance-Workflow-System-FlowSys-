@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_User</name>
+   <tag></tag>
+   <elementGuidId>a73255c6-1c2f-4271-a3fb-cae1368792a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[2]/div/nav/div/div[2]/div/div[2]/ul/li/div/div[2]/div/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Firman Sahlani&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>919ef0ee-f607-4af0-8025-9ff3123fa33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Firman Sahlani</value>
+      <webElementGuid>dadff961-ab2b-45ab-85ed-9a8c8cfd839c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-content&quot;]/nav[@class=&quot;navbar navbar-expand&quot;]/div[@class=&quot;collapse navbar-collapse justify-content-between&quot;]/div[@class=&quot;navbar-nav header-right&quot;]/div[@class=&quot;nav-item d-flex align-items-center&quot;]/div[@class=&quot;input-group&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown header-profile&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9&quot;]/div[1]/a[@class=&quot;nav-link dropdown-toggle col-sm-12 profile-link&quot;]/b[1]</value>
+      <webElementGuid>00cf7961-ff78-4e9a-8765-042d3446e5d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[2]/div/nav/div/div[2]/div/div[2]/ul/li/div/div[2]/div/a/b</value>
+      <webElementGuid>b87a7c87-a3c4-4d79-a453-8e539b0b3509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Admin'])[1]/following::b[1]</value>
+      <webElementGuid>c9fbd019-36bb-4326-bdd7-15e90269a0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::b[1]</value>
+      <webElementGuid>07fa03a4-d90b-414a-86cd-91f4089f3235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::b[1]</value>
+      <webElementGuid>9a466830-1e87-4e99-8369-676878f3b3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Firman Sahlani']/parent::*</value>
+      <webElementGuid>e2b6ccec-027f-430b-89f6-13f863f10b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>4750706e-3e98-4163-8494-46eb9a8a2ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Firman Sahlani' or . = 'Firman Sahlani')]</value>
+      <webElementGuid>c4f7743c-4b82-49a7-8716-68e61568e1c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

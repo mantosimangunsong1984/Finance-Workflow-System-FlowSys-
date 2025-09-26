@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Draft_Delete_IN-0000004104_Draft-PIL</name>
+   <tag></tag>
+   <elementGuidId>4e6d6fc3-a5d1-4055-93d1-aec7d38f7ad3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_draft_invoices']/tbody/tr[2]/td[10]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.even > td.text-center > button.btn.btn-xs.btn-danger.btn-delete > i.bi.bi-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;IN-0000004104 INV-006-PIL-TEST 23-06-2025 PT.Teknologi Utama Jaya iii 58.800.000,00   Draft  &quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>afef0158-0f1c-4971-b4c4-7b539cc9984e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-trash</value>
+      <webElementGuid>487eac5b-4012-4f06-88bf-3626fb4b3b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_draft_invoices&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;text-center&quot;]/button[@class=&quot;btn btn-xs btn-danger btn-delete&quot;]/i[@class=&quot;bi bi-trash&quot;]</value>
+      <webElementGuid>ca511f39-f457-48c0-9ef8-257acea50ecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_draft_invoices']/tbody/tr[2]/td[10]/button/i</value>
+      <webElementGuid>9125c6dc-38f6-40c8-aaef-af784b233ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[10]/button/i</value>
+      <webElementGuid>d80eea28-6a94-4310-8701-76a4ef35afa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

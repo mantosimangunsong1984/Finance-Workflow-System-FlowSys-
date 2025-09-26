@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_Delete_PI.25.04.0076</name>
+   <tag></tag>
+   <elementGuidId>df3772a1-26dd-476f-84ca-2d2a60ef99ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_all_invoices']/tbody/tr/td[10]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#table_all_invoices > tbody > tr.odd > td.text-center > button.btn.btn-xs.btn-danger.btn-delete > i.bi.bi-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c0841f06-231f-4ecf-9b78-ea59fcd58b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-trash</value>
+      <webElementGuid>bbfc4430-7a0a-47f6-9aeb-080921737f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_all_invoices&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/button[@class=&quot;btn btn-xs btn-danger btn-delete&quot;]/i[@class=&quot;bi bi-trash&quot;]</value>
+      <webElementGuid>a67e318e-4834-4503-8e91-6628865d66a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_all_invoices']/tbody/tr/td[10]/button/i</value>
+      <webElementGuid>f1a2c0b5-9a58-48c1-a32d-71ab3f4685bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/table/tbody/tr/td[10]/button/i</value>
+      <webElementGuid>811a4ebc-f5fe-4b6e-b43b-7f5e7a5c9854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Action_Delete_PI_ALL</name>
+   <tag></tag>
+   <elementGuidId>a95ed01b-5d02-4707-9550-ee8185772a1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_all_invoices']/tbody/tr/td[10]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-xs.btn-danger.btn-delete</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;PI.25.04.0093 001/0125/NLY/CKT 09-04-2025 David Leonardo 1.000.000,00   Approved  &quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e22748f-de42-40e3-ae91-d9db25063e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-xs btn-danger btn-delete</value>
+      <webElementGuid>d488121e-a78b-46da-864f-73a703129b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>f84a8127-a1cb-471c-bcd1-65baa93d982e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_all_invoices&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[10]/button[@class=&quot;btn btn-xs btn-danger btn-delete&quot;]</value>
+      <webElementGuid>75faf84d-c2f7-45c4-9ef2-2df24ea21fde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_all_invoices']/tbody/tr/td[10]/button</value>
+      <webElementGuid>b1b6f3e5-c35f-4f7b-a6fe-b40ccaba52fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[3]/following::button[1]</value>
+      <webElementGuid>f7a00ccc-02ab-43b2-a33a-a2aa87ddd737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='David Leonardo'])[2]/following::button[1]</value>
+      <webElementGuid>e250307a-d55f-4390-a51b-5e5a94d044db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PI.25.04.0095'])[2]/preceding::button[1]</value>
+      <webElementGuid>a4cd31a2-b2c7-47ba-8791-9cea8b228c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. Multi Harapan Utama'])[2]/preceding::button[1]</value>
+      <webElementGuid>ecf9333f-c273-4f37-878a-d4835ca2d261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/button</value>
+      <webElementGuid>fad2bea3-8ede-467a-aaff-0495a72b0a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

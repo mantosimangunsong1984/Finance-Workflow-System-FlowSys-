@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__transaction_type</name>
+   <tag></tag>
+   <elementGuidId>2ef3c09d-5fd0-4e9e-be62-19d06193ee76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='transaction_type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;transaction_type&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;transaction_type&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d4afda40-49d6-4cf4-ad1b-d1c7906b61b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>ed059e9a-3526-4aa2-b244-87f074e19684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>transaction_type</value>
+      <webElementGuid>644afff3-9e0a-4e21-8921-202839c981be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                    Purchase Invoice
+                                    </value>
+      <webElementGuid>da12ee7f-0646-49f5-a029-4b216793e090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEditWorkflowSetup&quot;)/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body pt-2 form-general&quot;]/div[@class=&quot;row gx-5&quot;]/div[@class=&quot;col-12 row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;mb-3 row&quot;]/div[@class=&quot;col-sm-8&quot;]/select[@class=&quot;form-select&quot;]</value>
+      <webElementGuid>4f0e5662-532b-4837-be69-8e8da12873f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='transaction_type']</value>
+      <webElementGuid>b26fd4ea-d62d-4e9b-a1ec-92d363e783c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEditWorkflowSetup']/div/div/div[2]/div/div/div/div/div/select</value>
+      <webElementGuid>51aae202-9377-495c-bf35-ee31f5fc8e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>a08a6292-14b7-4ef7-af6e-00bc27f1065a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>91d46a7e-f95b-4cbb-93a1-58c68fa1f103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>42bafbdb-f5a1-4c26-8337-8b2c10e06a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'transaction_type' and (text() = '
+                                                                    Purchase Invoice
+                                    ' or . = '
+                                                                    Purchase Invoice
+                                    ')]</value>
+      <webElementGuid>38a3742e-e6de-4c16-8e02-b0b1bc432568</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

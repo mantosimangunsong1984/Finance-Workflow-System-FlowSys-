@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_download-PIUploadHistory</name>
+   <tag></tag>
+   <elementGuidId>8f714507-4812-44d0-a51b-0a61fd76e77a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_purchase_invoices_upload']/tbody/tr/td[4]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1756108631_template_purchase_invoice.xlsx System 25/08/2025 14:57:11  &quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b0d3bb66-8d14-4a8a-908a-02e14ca708b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-download</value>
+      <webElementGuid>edced9e0-2929-49da-a714-85b0ed0693bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_purchase_invoices_upload&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;btn btn-xs btn-download&quot;]/i[@class=&quot;bi bi-download&quot;]</value>
+      <webElementGuid>7f9720c4-6514-4df5-8c53-70565b685a1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_purchase_invoices_upload']/tbody/tr/td[4]/a/i</value>
+      <webElementGuid>19f5a3e8-1bb3-4e27-9d13-f340fd597409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a/i</value>
+      <webElementGuid>f0c12ec3-7a31-42b7-94e2-71276defa52f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My-Approvals</name>
+   <tag></tag>
+   <elementGuidId>dab3cef6-0274-4343-9c4d-6f50e85e77ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mm-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu']/li[3]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu >> internal:role=link[name=&quot;My Approval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89a28547-5023-4075-adee-4dc10af64212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat-flowsys.mmsgroup.co.id/approvals/my_approval</value>
+      <webElementGuid>77976994-252c-421b-899e-2eca6ffb948f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mm-active</value>
+      <webElementGuid>2c9fd044-1b5b-478a-bf89-b02a6d0b3998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Approval</value>
+      <webElementGuid>4b578251-1d0c-40f4-ac7b-1c314a1b53d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/li[@class=&quot;1 mm-active&quot;]/ul[@class=&quot;mm-collapse mm-show&quot;]/li[@class=&quot;mm-active&quot;]/a[@class=&quot;mm-active&quot;]</value>
+      <webElementGuid>be9ce621-d0d2-411e-b1d9-2b994eec7d7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu']/li[3]/ul/li/a</value>
+      <webElementGuid>c5573dcc-b0c5-4197-bb26-6fdabcd91007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Approval')]</value>
+      <webElementGuid>f1267be4-9e93-4db4-9db5-e89351cd46ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approvals'])[1]/following::a[1]</value>
+      <webElementGuid>b483f3e0-21c7-4eb7-b708-797bd4a6e5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PI Upload History'])[1]/following::a[2]</value>
+      <webElementGuid>900ee3f0-823a-497c-abdd-7c71f232ea70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval History'])[1]/preceding::a[1]</value>
+      <webElementGuid>3266c9d0-3cd7-4e92-8117-bc755e3b67a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[1]/preceding::a[2]</value>
+      <webElementGuid>f15fd814-d272-45de-bcaf-95913f56c750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Approval']/parent::*</value>
+      <webElementGuid>abf8a0ab-5315-4143-929a-ceab28645540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://uat-flowsys.mmsgroup.co.id/approvals/my_approval')]</value>
+      <webElementGuid>26d1a076-c792-4d8d-acfe-fcc150a0b9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a</value>
+      <webElementGuid>2743579d-9a5a-43c6-9724-12ff7d94ebdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uat-flowsys.mmsgroup.co.id/approvals/my_approval' and (text() = 'My Approval' or . = 'My Approval')]</value>
+      <webElementGuid>0ed904ba-1c57-4588-a0e5-92b9d6953d44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

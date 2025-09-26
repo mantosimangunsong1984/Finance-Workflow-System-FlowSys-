@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Workflow Setup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bdd8ddc-6e11-42f1-ac03-c7ea31ab4555</testCaseGuid>
+</TestCaseEntity>

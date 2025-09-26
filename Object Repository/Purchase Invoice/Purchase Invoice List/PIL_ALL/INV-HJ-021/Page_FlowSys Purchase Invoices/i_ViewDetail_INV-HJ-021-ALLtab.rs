@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ViewDetail_INV-HJ-021-ALLtab</name>
+   <tag></tag>
+   <elementGuidId>60b5b78f-3e1e-496f-88b7-d31e30801da8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#table_all_invoices > tbody > tr.odd > td.text-center > a.btn.btn-xs.btn-info > i.bi.bi-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_all_invoices']/tbody/tr/td[10]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3485ee00-73f5-447b-92b2-2574e0ac26e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye</value>
+      <webElementGuid>4f7ad694-6bd9-420d-ad89-8bc12f5196ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_all_invoices&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;btn btn-xs btn-info&quot;]/i[@class=&quot;bi bi-eye&quot;]</value>
+      <webElementGuid>9332d80e-4e70-44a0-85eb-1c21a03230c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_all_invoices']/tbody/tr/td[10]/a/i</value>
+      <webElementGuid>dda663da-d327-4fa8-948e-033ed88922ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/table/tbody/tr/td[10]/a/i</value>
+      <webElementGuid>ad460745-a7bb-4196-ac47-4b86135fd7b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

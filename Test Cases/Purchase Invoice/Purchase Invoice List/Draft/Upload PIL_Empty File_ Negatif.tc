@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload PIL_Empty File_ Negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>241990de-6893-487e-81d1-033f84ce7b89</testCaseGuid>
+</TestCaseEntity>

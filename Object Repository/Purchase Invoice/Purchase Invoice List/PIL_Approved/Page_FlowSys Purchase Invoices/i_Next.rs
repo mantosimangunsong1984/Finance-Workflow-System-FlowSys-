@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Next</name>
+   <tag></tag>
+   <elementGuidId>c5766d0c-f24a-46da-b266-eba76e82d0a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='table_approved_invoices_next']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#table_approved_invoices_next > i.fa.fa-angle-double-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#table_approved_invoices_next</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7f35923e-e5e3-4339-a525-7674655caf75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-double-right</value>
+      <webElementGuid>45d34563-df48-4200-8a7b-5a8eaafb9818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1fbe2d56-0a17-40ba-b482-f8f52a87919c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_approved_invoices_next&quot;)/i[@class=&quot;fa fa-angle-double-right&quot;]</value>
+      <webElementGuid>2d521a42-fa11-4a35-a8fa-d3751d2dda4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='table_approved_invoices_next']/i</value>
+      <webElementGuid>1177becf-fb3b-40e7-a660-09aad35aabbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[5]/a[2]/i</value>
+      <webElementGuid>439d0d63-b31b-4995-b3e1-8ca2d97fe564</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

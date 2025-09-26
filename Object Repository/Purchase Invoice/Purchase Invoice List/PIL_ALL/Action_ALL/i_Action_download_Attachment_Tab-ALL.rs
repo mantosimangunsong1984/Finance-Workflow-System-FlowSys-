@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_download_Attachment_Tab-ALL</name>
+   <tag></tag>
+   <elementGuidId>23f42077-8519-4f66-92d5-8c6de382059a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='attachment-table']/tbody/tr/td[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td:nth-child(7) > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>efd077f0-6254-4ab6-a655-cd41dbc91b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-download</value>
+      <webElementGuid>1f0e659d-321b-49ee-854a-19a123ff7dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attachment-table&quot;)/tbody[1]/tr[1]/td[5]/a[1]/i[@class=&quot;fas fa-download&quot;]</value>
+      <webElementGuid>993e6693-185e-41a6-9070-8262fd5b678e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='attachment-table']/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>5a0a09d9-eccd-4baf-8d98-f3fb1508738a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/i</value>
+      <webElementGuid>04e3d06c-1eb2-4431-a04c-635396789540</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
