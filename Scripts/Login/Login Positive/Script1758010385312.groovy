@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://uat-flowsys.mmsgroup.co.id/')
+WebUI.navigateToUrl('https://uat-flowsys.mmsgroup.co.id/auth/login')
 
 WebUI.maximizeWindow()
 
