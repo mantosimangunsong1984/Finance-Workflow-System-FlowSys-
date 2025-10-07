@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/Button Upload
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.uploadFile(findTestObject('Purchase Invoice/Purchase Invoice List/Button Upload Files/Page_FlowSys Purchase Invoices/input_Select Invoice File_Choose-File'), 
-    'C:\\Users\\manto.manto\\Downloads\\invoice_template_Flowsys.xlsx')
+    'C:\\Users\\manto.manto\\OneDrive - mmsgroup.co.id\\Documents\\Data Manto\\Report Testing Katalon\\FlowSys\\Doc Testing Flowsys\\invoice_template_Flowsys_Test_UAT.xlsx')
 
 WebUI.delay(3)
 

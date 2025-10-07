@@ -27,7 +27,13 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Pag
 
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/PIL_ALL'))
 
-WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_ALL/Action_ALL/Page_FlowSys Purchase Invoices/a_Action_Tab-ALL'))
+WebUI.setText(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_ALL/Page_FlowSys Purchase Invoices/input_search_ALL'), 
+    'INV-001-PI')
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_ALL/Page_FlowSys Purchase Invoices/input_check_all_ALL'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_ALL/INV-HJ-021/Page_FlowSys Purchase Invoices/i_ViewDetail_INV-HJ-021-ALLtab'))
 
 WebUI.delay(3)
 

@@ -28,7 +28,9 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Approved/
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Approved/APPROVED-2/Page_FlowSys Purchase Invoices/button_PIL_Approved_tab'))
 
 WebUI.setText(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Approved/APPROVED-2/Page_FlowSys Purchase Invoices/input_search_Approved-tab'), 
-    'IN-00000040')
+    'INV-001-PI')
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Approved/Page_FlowSys Purchase Invoices/input_Check_all_approved'))
 
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Approved/APPROVED-2/Page_FlowSys Purchase Invoices/i_Action_ViewDetail_IN-0000040'))
 

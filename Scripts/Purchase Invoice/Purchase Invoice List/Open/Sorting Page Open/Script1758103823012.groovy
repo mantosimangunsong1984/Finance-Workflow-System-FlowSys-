@@ -27,10 +27,30 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Pag
 
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/PIL_Open'))
 
-WebUI.setText(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/Page_FlowSys Purchase Invoices/input_search-Open'), 
-    'INV-HJ-021')
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/input_Processing_check_all_open'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/input_Processing_check_all_open'))
+
+WebUI.selectOptionByLabel(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/select_Showentries'), 
+    '100', false)
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_FormNo'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_InvoiceNo'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_InvoiceDate'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_VendorName'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_Amount'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_Current-Approval'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/th_Status'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/a_Next'))
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Open/New PIL OPEN/Page_FlowSys Purchase Invoices/i_Back'))
 
 WebUI.takeFullPageScreenshot()
 

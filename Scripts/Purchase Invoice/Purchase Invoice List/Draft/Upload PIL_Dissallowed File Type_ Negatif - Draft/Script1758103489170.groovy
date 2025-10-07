@@ -34,8 +34,6 @@ WebUI.uploadFile(findTestObject('Purchase Invoice/Purchase Invoice List/Button U
 
 WebUI.delay(3)
 
-WebUI.acceptAlert()
-
 WebUI.takeFullPageScreenshot()
 
 WebUI.delay(3)

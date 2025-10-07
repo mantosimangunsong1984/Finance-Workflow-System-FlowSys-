@@ -31,8 +31,6 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/Button Upload
 WebUI.uploadFile(findTestObject('Purchase Invoice/Purchase Invoice List/Button Upload Files/Page_FlowSys Purchase Invoices/input_Select Invoice File_Choose-File'), 
     'C:\\Users\\manto.manto\\Downloads\\30mb.xlsx')
 
-WebUI.acceptAlert()
-
 WebUI.delay(3)
 
 WebUI.takeFullPageScreenshot()

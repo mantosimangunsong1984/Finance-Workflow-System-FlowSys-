@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Pag
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/PIL_Draft'))
 
 WebUI.setText(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/input_search_Draft'), 
-    'PI.25.04.0037')
+    'PI-HJ-026')
 
 WebUI.delay(3)
 

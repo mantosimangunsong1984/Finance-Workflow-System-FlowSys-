@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload_PIL</name>
+   <tag></tag>
+   <elementGuidId>10c7eddc-93be-418c-9e43-6d60ba3babb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#open-content > div.card > div.card-header.p-3.d-flex.justify-content-between.align-items-center > div.btn-group > button.btn.btn-outline-primary.btn-sm.btn.btnUploadInvoiceModal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Upload&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba38ac15-2c8c-4044-8604-38d282a1d068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51028b3b-78b9-43ca-82b2-81545cbb8a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary btn-sm btn btnUploadInvoiceModal</value>
+      <webElementGuid>fbdf1746-a9ab-48a0-b891-469aa9dc950e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     Upload
+</value>
+      <webElementGuid>a38e553f-96df-4db5-9dc7-94bc638a3a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;open-content&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header p-3 d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-outline-primary btn-sm btn btnUploadInvoiceModal&quot;]</value>
+      <webElementGuid>a8307dee-df8d-4f70-9229-9f6f65a39d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>cbe28f17-654c-40c5-84fb-ae108622f3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='open-content']/div/div/div/button</value>
+      <webElementGuid>bc3dcf1e-ef37-46e2-91eb-4f0f2f2bc07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Purchase Invoices'])[1]/following::button[1]</value>
+      <webElementGuid>8dbd9d48-bc5b-4b96-9da9-f71315278fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 10 of 12 entries'])[1]/following::button[1]</value>
+      <webElementGuid>0acd0096-1afb-4c18-8e16-64185d71fa52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>254a8328-dc3a-4177-92e3-24c044fd40ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+     Upload
+' or . = '
+     Upload
+')]</value>
+      <webElementGuid>d16369ac-aed2-4c7f-bade-8dace1e5f397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

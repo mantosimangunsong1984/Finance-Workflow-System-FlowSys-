@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Pag
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/PIL_Draft'))
 
 WebUI.setText(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/input_search_Draft'), 
-    'Firman Corp')
+    'INV-TEST-001117')
 
 WebUI.takeFullPageScreenshot()
 

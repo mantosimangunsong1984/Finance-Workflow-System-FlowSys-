@@ -25,7 +25,10 @@ WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Pag
 
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/PIL_Draft'))
 
-WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/PI-HJ-023/Page_FlowSys Purchase Invoices/input_Checkbox_PI-HJ-023'))
+WebUI.setText(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/input_search_Draft'), 
+    'INV-TEST-001115')
+
+WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/input_Draft_Check_All'))
 
 WebUI.click(findTestObject('Purchase Invoice/Purchase Invoice List/PIL_Draft/Page_FlowSys Purchase Invoices/button_Submit Selected_Draft'))
 

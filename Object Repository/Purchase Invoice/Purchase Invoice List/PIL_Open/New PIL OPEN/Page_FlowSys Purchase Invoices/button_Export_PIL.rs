@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Export_PIL</name>
+   <tag></tag>
+   <elementGuidId>aae1b29a-dc7c-4da4-a0bb-9415db3ba049</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#open-content > div.card > div.card-header.p-3.d-flex.justify-content-between.align-items-center > div.btn-group > button.btn.btn-outline-secondary.btn-sm.btn-export</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Export&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2427035a-45bb-4b05-b972-48c4e7bdca2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e85a2a1-fe7e-468e-82c9-2111a2933d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-secondary btn-sm btn-export</value>
+      <webElementGuid>96ec08b4-73c0-42fc-bce2-4b7237725771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>open</value>
+      <webElementGuid>4bdeec4d-6b4c-408a-8707-a74df3f18688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     Export
+</value>
+      <webElementGuid>0616c2da-0838-486f-a8d2-dead2451234a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;open-content&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-header p-3 d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-outline-secondary btn-sm btn-export&quot;]</value>
+      <webElementGuid>19c69475-5dff-4d3d-8a0e-d7b18642b3a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>e12b2c1a-d434-4b99-a495-6b14dbcf2ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='open-content']/div/div/div/button[2]</value>
+      <webElementGuid>33ba7666-27cb-4a31-8478-21c3f8f4be80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Purchase Invoices'])[1]/following::button[2]</value>
+      <webElementGuid>10318aca-3c5a-4094-82e0-286a8536d76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[2]/preceding::button[1]</value>
+      <webElementGuid>51f0ab9e-378f-49bd-8f41-88bd32f05c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button[2]</value>
+      <webElementGuid>27a637a0-98b5-4d44-9561-4114fd842bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+     Export
+' or . = '
+     Export
+')]</value>
+      <webElementGuid>ad34d263-c628-48ea-8b57-e4f2b7053c2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
