@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Detail Purchase Invoice List - Open</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>002134fc-9616-4ef8-810c-7a9fb6dcc9fd</testCaseGuid>
+</TestCaseEntity>

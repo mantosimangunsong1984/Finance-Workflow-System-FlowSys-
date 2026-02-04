@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Top-Result</name>
+   <tag></tag>
+   <elementGuidId>afde5faa-5a44-48bf-9d53-c52e0b43d887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.customScrollBar.jEpCF</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='MailList']/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.FiPRo > .customScrollBar</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d74d9806-cba8-410b-bdc5-61ff6d6af814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customScrollBar jEpCF</value>
+      <webElementGuid>40d596d6-b7f7-4101-9124-7a37d54f90bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top resultsOIOne IT[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014Mon 3:21 PMThis is an automatically generated email by the Finance Workflow System. Please do not reply. Dear All, We would like to inform you that the following Purchase Invoice has been successfully canceled after completing the required approval process.Inbox</value>
+      <webElementGuid>79fa0f98-9834-4591-9454-3b8b83cecb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MailList&quot;)/div[@class=&quot;ONAp_&quot;]/div[@class=&quot;Cz7T5&quot;]/div[@class=&quot;Cz7T5&quot;]/div[@class=&quot;X4w2q zXLz3&quot;]/div[@class=&quot;FiPRo&quot;]/div[@class=&quot;customScrollBar jEpCF&quot;]</value>
+      <webElementGuid>eddcd71d-014d-41dc-ade2-420cff19b2cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MailList']/div/div/div/div/div/div</value>
+      <webElementGuid>e36fe050-6f2b-4218-89b5-83fddbc65c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/following::div[8]</value>
+      <webElementGuid>f5d52179-93ea-4840-a29f-88e558dd199e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Groups - 0 unread'])[1]/following::div[25]</value>
+      <webElementGuid>24658042-2c8d-4619-b874-ac128840aa46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>4e7ccaf9-b4cb-4fd1-8be8-5bf04ad63335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Top resultsOIOne IT[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014Mon 3:21 PMThis is an automatically generated email by the Finance Workflow System. Please do not reply. Dear All, We would like to inform you that the following Purchase Invoice has been successfully canceled after completing the required approval process.Inbox' or . = 'Top resultsOIOne IT[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014Mon 3:21 PMThis is an automatically generated email by the Finance Workflow System. Please do not reply. Dear All, We would like to inform you that the following Purchase Invoice has been successfully canceled after completing the required approval process.Inbox')]</value>
+      <webElementGuid>c6f61473-6582-4022-a264-7e0b526081c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

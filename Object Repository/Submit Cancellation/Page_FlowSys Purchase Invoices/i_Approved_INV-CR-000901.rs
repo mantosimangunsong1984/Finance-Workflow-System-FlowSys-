@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Approved_INV-CR-000901</name>
+   <tag></tag>
+   <elementGuidId>ad522418-0d5d-4e88-bd8a-14f5a6a87b77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#table_approved_invoices > tbody > tr.odd > td.text-center > a.btn.btn-xs.btn-info > i.bi.bi-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table_approved_invoices']/tbody/tr/td[9]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;INVCR-0000701 INV-CR-000901 19-06-2026 PT Integra Solusi Mandiri _CR 2 19.600.000,00 30 January 2026 17:28:37 Approved &quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5c5d6b21-b86b-4af1-9c45-8919a74e9a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-eye</value>
+      <webElementGuid>48af12f1-271d-479f-be81-3bcb561918e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_approved_invoices&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;btn btn-xs btn-info&quot;]/i[@class=&quot;bi bi-eye&quot;]</value>
+      <webElementGuid>7ff6bb37-4141-4716-affd-77342775532b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_approved_invoices']/tbody/tr/td[9]/a/i</value>
+      <webElementGuid>5fbe6a86-4917-4a31-944f-04caa47a5bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/table/tbody/tr/td[9]/a/i</value>
+      <webElementGuid>e6153a97-4580-4e7f-bb19-6bbdd800b537</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

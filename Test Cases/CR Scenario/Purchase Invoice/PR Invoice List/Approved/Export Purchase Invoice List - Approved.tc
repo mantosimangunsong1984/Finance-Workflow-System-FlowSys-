@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Export Purchase Invoice List - Approved</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a632c0f1-e59e-4a74-bc58-41801200cb27</testCaseGuid>
+</TestCaseEntity>

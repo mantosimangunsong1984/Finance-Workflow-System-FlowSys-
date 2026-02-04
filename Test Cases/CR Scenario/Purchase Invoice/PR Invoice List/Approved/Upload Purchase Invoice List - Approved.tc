@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload Purchase Invoice List - Approved</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d96beb6-8283-4431-a5a5-f530b03ad19b</testCaseGuid>
+</TestCaseEntity>

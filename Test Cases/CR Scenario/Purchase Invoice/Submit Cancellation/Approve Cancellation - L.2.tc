@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Approve Cancellation - L.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81d3a450-9eef-4b6d-8bec-e20c0d536407</testCaseGuid>
+</TestCaseEntity>

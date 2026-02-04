@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit Purchase Invoice List - Draft</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec322ce2-a64a-48f3-a5a7-2ffa41070a60</testCaseGuid>
+</TestCaseEntity>

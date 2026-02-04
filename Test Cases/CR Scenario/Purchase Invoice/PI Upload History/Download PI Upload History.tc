@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download PI Upload History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32e27375-f4de-41d2-b730-f76a1ea748d2</testCaseGuid>
+</TestCaseEntity>

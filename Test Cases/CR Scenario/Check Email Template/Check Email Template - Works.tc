@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Email Template - Works</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdfe421c-107b-42fc-a0dc-6c4bee3c61e2</testCaseGuid>
+</TestCaseEntity>

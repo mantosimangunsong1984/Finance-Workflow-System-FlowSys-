@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Results</name>
+   <tag></tag>
+   <elementGuidId>a8b4352f-9f41-45f8-a7dd-5397b276b054</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._EhYJ.fcAA5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Skip to message list-region']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Results&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ea10fd3-f480-4cf1-899d-e5f5fd61ae55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_EhYJ fcAA5</value>
+      <webElementGuid>ad923b67-09a2-4fb7-b951-91cc03bc540e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Results</value>
+      <webElementGuid>79bc8f6d-9cc1-449d-94b1-311528946984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Skip to message list-region&quot;)/div[@class=&quot;bkYAr&quot;]/div[@class=&quot;rEzfP gkKwQ Gj2Pr MtQpS m74HI e2Pgo rf8FT&quot;]/div[@class=&quot;_EhYJ fcAA5&quot;]</value>
+      <webElementGuid>b53acd6c-bfec-4a13-b1d5-f9aff73cdb06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Skip to message list-region']/div/div/div</value>
+      <webElementGuid>3db30cc5-cee2-4fa9-842c-d263fb6d00bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Groups - 0 unread'])[1]/following::div[13]</value>
+      <webElementGuid>dfaa8cf9-e691-49d5-92c5-85ff23657f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to Groups'])[1]/following::div[14]</value>
+      <webElementGuid>72c6f4b3-d1f1-48a7-bd04-f59827b7f19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top results'])[1]/preceding::div[8]</value>
+      <webElementGuid>b2f0cb59-0c0e-42d0-a6b0-14b91d72567f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>d11928e0-1c80-4487-918d-e45c25d7f464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Results' or . = 'Results')]</value>
+      <webElementGuid>2d585212-96c9-4fe3-9e4d-f6638e9690ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

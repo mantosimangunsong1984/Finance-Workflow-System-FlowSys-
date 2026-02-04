@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Purchase Invoice List - ALL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37813c60-2dfe-428b-b458-73be962d7175</testCaseGuid>
+</TestCaseEntity>

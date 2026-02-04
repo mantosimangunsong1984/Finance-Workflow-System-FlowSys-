@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Approvals/Sample Approve My Approval/Page_FlowSys Pu
 WebUI.setText(findTestObject('Approvals/Sample Approve My Approval/Page_FlowSys Purchase Invoice Detail/textarea_Notes_ApprovePurchaseInvoice'), 
     'OK DARI MANTO')
 
-WebUI.click(findTestObject('Approvals/Sample Approve My Approval/Page_FlowSys Purchase Invoice Detail/button_Save_Confirmation'))
+WebUI.click(findTestObject('Approvals/Sample Approve My Approval/Page_FlowSys Purchase Invoice Detail/button_Approve_Confirmation'))
 
 WebUI.takeFullPageScreenshot()
 

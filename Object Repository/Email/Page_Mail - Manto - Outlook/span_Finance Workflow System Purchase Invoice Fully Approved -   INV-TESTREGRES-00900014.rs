@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Finance Workflow System Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014</name>
+   <tag></tag>
+   <elementGuidId>ffe41f05-16c4-4365-b508-8ceab491adfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.JdFsz</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CONV_bc1OkaE1zQ=_SUBJECT']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>742d3287-ec96-4c02-969c-4738053310b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JdFsz</value>
+      <webElementGuid>08c732c7-74d4-4339-8c5f-6682ccfea012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014</value>
+      <webElementGuid>ecdb03ff-950b-4fc6-8c09-de5be67325e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014</value>
+      <webElementGuid>cd5ae2d4-afb9-45e4-998e-295d7e8249a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CONV_bc1OkaE1zQ=_SUBJECT&quot;)/div[@class=&quot;MshDW m41se&quot;]/div[@class=&quot;UUCdJ PKstT&quot;]/div[@class=&quot;f77rj&quot;]/span[@class=&quot;JdFsz&quot;]</value>
+      <webElementGuid>3c930e1a-4063-41ac-87d2-a14b8a00ebea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CONV_bc1OkaE1zQ=_SUBJECT']/div/div/div/span</value>
+      <webElementGuid>0ecb91d6-5edc-4ce5-b359-40347eab86b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon 3:21 PM'])[4]/following::span[2]</value>
+      <webElementGuid>0c3b54ac-1ff6-468a-bf52-ad916636b169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summarize'])[1]/preceding::span[2]</value>
+      <webElementGuid>6fee4b40-3666-4a4f-bacc-207f01a684ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OI'])[6]/preceding::span[4]</value>
+      <webElementGuid>98ceb8ee-9486-4736-9403-4a7e2bff2883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div/div/div/span</value>
+      <webElementGuid>92c1d09b-7cda-4727-8b3e-f7fb80b8be16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014' and (text() = '[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014' or . = '[Finance Workflow System] Purchase Invoice Fully Approved -   INV-TESTREGRES-00900014')]</value>
+      <webElementGuid>a874f056-c928-414c-bd55-eb8896d22cc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

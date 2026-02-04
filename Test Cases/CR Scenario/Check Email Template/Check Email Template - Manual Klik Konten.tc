@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Email Template - Manual Klik Konten</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bd044ea-b033-4921-91b1-1b8adcfa7b75</testCaseGuid>
+</TestCaseEntity>

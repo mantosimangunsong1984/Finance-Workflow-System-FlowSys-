@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View Detail Purchase Invoice List - ALL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>559749ff-95fc-481c-bb6f-7e533133c353</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Purchase Invoice List - Approved</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df9fcc32-dc93-4742-be24-9c5a8bf857df</testCaseGuid>
+</TestCaseEntity>

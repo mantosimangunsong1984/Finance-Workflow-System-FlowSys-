@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Purchase Invoice List - Draft</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80b21791-bb77-48da-a108-bd1056ff1915</testCaseGuid>
+</TestCaseEntity>
